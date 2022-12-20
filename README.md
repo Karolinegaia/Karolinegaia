@@ -1,5 +1,5 @@
 ### Olá! Eu sou a Karoline Gaia 👋
-<p>Estou estudando Desenvolvimento Web com especialidade Front-End | Gama Academy 💻 </p>
+<p>Desenvolvedora Web com especialidade Front-End | Gama Academy | Origamid | Rocketseat | DIO 💻 </p>
 <p>Acadêmica de Engenharia de Software | Ampli 📚</p>
 
 
