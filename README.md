@@ -1,5 +1,5 @@
 ### Olá! Eu sou a Karoline Gaia 👋
-<p>Desenvolvedora FullStack com especialidade Front-End | Gama Academy | Origamid | Rocketseat | DIO | Semantix | Sysmap 💻 </p>
+<p>Apaixonada por tecnologia |QA | Testes automatizados | Gama Academy | Origamid | Rocketseat | DIO | Semantix | Sysmap 💻 </p>
 <p>Acadêmica de Engenharia de Software | Ampli 📚</p>
 
 
