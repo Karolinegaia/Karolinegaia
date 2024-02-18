@@ -1,6 +1,7 @@
 ### Olá! Eu sou a Karoline Gaia 👋
-<p>Apaixonada por tecnologia |QA | Testes automatizados | Gama Academy | Origamid | Rocketseat | DIO | Semantix | Sysmap 💻 </p>
+<p>Apaixonada por tecnologia | Dev Fullsatck | Testes automatizados | Gama Academy | Origamid | Rocketseat | DIO | Semantix | Sysmap 💻 </p>
 <p>Acadêmica de Engenharia de Software | Ampli 📚</p>
+<p> Analista de desenvolvimento de software </p>
 
 
 
@@ -15,13 +16,13 @@
   
   </div>
   
-<!--   ##
+ ##
   <div align="center">
 <a href="https://github.com/Karolinegaia">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Karolinegaia&show_icons=true&theme=nord&include_all_commits=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karolinegaia&layout=compact&langs_count=7&theme=nord"/>
 </div>
-  <br> -->
+  <br> 
 
 
  
